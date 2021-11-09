@@ -1,6 +1,8 @@
 ---
 layout: post
 title: BSidesKC21 SAO
+date:   2021-11-09 09:55:32 -0800
+categories: BSidesKC
 ---
 So you are going to BSidesKC 2021, and want a little insight into the mysterious SAO v1.69bis standard that everyone is talking about? <br>
 OR<br>

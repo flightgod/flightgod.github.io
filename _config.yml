@@ -30,3 +30,5 @@ plugins:
 # Custom variables
 owner : "BadgePirates"
 year : "2021"
+
+google_analytics: [Your Google Analytics tracking ID]
