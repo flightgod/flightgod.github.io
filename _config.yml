@@ -30,7 +30,7 @@ twitter_username: flightgod
 github_username:  flightgod
 
 # Build settings
-theme: minima
+theme: hacker
 plugins:
   - jekyll-feed
 
