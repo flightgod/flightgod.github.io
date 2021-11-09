@@ -1,34 +1,15 @@
-title: BadgePirates-Blog
-description: "Blogging for fun not profit"
-author:
-  name: "flightgod"
-  email: "flightgod@gmail.com"
-  url: "https://flightgod.github.io"
+title: Hacker theme
+description: Hacker is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-hacker
 
-baseurl: /
+# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
+# Used for Sitemap.xml and your RSS feed
+url: https://badgepiratesllc.github.io
 
-source: .
-destination: ./_site
-permalink: /:title
-paginate: 0
-paginate_path: /page/:num/
-
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-
-future: true
-plugins:
-  - jekyll-seo-tag
-  - jekyll-paginate
-  - jekyll-sitemap
-
-# Custom variables
-owner : "BadgePirates"
-year : "2021"
-
-google_analytics: [Your Google Analytics tracking ID]
+# If you're hosting your site at a Project repository on GitHub pages
+# (http://yourusername.github.io/repository-name)
+# and NOT your User repository (http://yourusername.github.io)
+# then add in the baseurl here, like this: "/repository-name"
+baseurl: ""
